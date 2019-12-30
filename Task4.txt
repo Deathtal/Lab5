@@ -1,0 +1,5 @@
+Student: Herman Åberg
+
+Reflection:
+
+I estimate that I spent around 12h or less on this lab. I had a cold for all of this lab (still am as if this writing) so I don't really remember what I had trouble with because I only worked on it when I didn't have a headache, and those days could be far apart. When it comes to the UML I did find it quite hard to get started and figure out what methods are needed. It can definitely be improved, but I think it is good enough to show that I know how to make one.
